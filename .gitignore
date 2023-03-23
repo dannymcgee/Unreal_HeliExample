@@ -6,5 +6,5 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Plugins/Developer/RiderLink
-Playground.uproject.DotSettings.user
+*.sln
+*.vsconfig
