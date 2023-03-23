@@ -1,0 +1,3 @@
+[submodule "Plugins/Gameplay/RotaryWingAircraft"]
+	path = Plugins/Gameplay/RotaryWingAircraft
+	url = https://github.com/dannymcgee/Unreal_RotaryWingAircraft.git
